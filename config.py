@@ -1,5 +1,4 @@
 # config.py
-# config.py
 # Fill in AFTER Schwab grants access
 
 TOS_CLIENT_ID = ""          # e.g. "ABC123XYZ@AMER.OAUTHAP"
